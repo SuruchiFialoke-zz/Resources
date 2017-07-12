@@ -1,6 +1,11 @@
 # Resources
 Useful Resources for Machine Learning, BioInformatics
 
+## Sheer Awesomeness
+
+http://students.brown.edu/seeing-theory/
+
+
 ## Machine Learning Useful Cheat-sheets
 
 1. On scikitlearn
