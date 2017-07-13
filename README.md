@@ -6,7 +6,7 @@ Useful Resources for Machine Learning, BioInformatics
 
 1. [Coursera Machine Learning Course Taught by:  Andrew Ng, Co-founder, Coursera](https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&campaignid=693373197&adgroupid=36745103515&device=c&keyword=andrew%20ng%20machine%20learning&matchtype=e&network=g&devicemodel=&adpostion=1t1&creativeid=156061453588&hide_mobile_promo&gclid=CLrKuey1htUCFVlXDQodMU0NUA)
 
-2. [Neural Networks and Deep Learning, a free online book by Michael Nielsen] 
+2. [Neural Networks and Deep Learning, a free online book by Michael Nielsen](http://neuralnetworksanddeeplearning.com/) 
 
 
 ## Online courses
